@@ -83,7 +83,7 @@ AI-Autonomous-Navigation-System/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AI-Autonomous-Navigation-System.git
+git clone https://github.com/Prashanth-Kulal1/AI-Autonomous-Navigation-System.git
 cd AI-Autonomous-Navigation-System
 ```
 
@@ -136,26 +136,29 @@ python main.py
 ## 📸 Results
 
 ### 🧱 Environment
-
-![Grid](images/grid_environment.png)
+<p align="center">
+  <img src="images/grid_environment.png" width="500">
+</p>
 
 ### 🧠 Path Planning (A*)
-
-![Path](images/agent_navigation.png)
+<p align="center">
+  <img src="images/agent_navigation.png" width="500">
+</p>
 
 ### 🚗 Agent Navigation
-
-![Agent](images/agent_navigation.png)
+<p align="center">
+  <img src="images/agent_navigation.png" width="500">
+</p>
 
 ### 🎯 Goal Reached
-
-![Goal](images/goal_reached.png)
+<p align="center">
+  <img src="images/goal_reached.png" width="500">
+</p>
 
 ### 🖥️ Terminal Execution
-
-![Terminal](images/terminal_execution.png)
-
----
+<p align="center">
+  <img src="images/terminal_execution.png" width="700">
+</p>
 
 ## 🎥 Demo
 
