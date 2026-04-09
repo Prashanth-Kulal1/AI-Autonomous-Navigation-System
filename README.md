@@ -159,7 +159,7 @@ python main.py
 
 ## 🎥 Demo
 
-![Demo](outputs/videos/output_demo.mp4)
+![Demo](outputs/video/output_demo.mp4)
 
 ---
 
