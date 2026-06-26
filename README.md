@@ -83,7 +83,7 @@ AI-Autonomous-Navigation-System/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/Prashanth-Kulal1/AI-Autonomous-Navigation-System.git
+git clone https://github.com/Prashanth-kulal/AI-Autonomous-Navigation-System.git
 cd AI-Autonomous-Navigation-System
 ```
 
@@ -210,7 +210,7 @@ python main.py
 
 **Prashanth Kulal**
 
-* GitHub: https://github.com/Prashanth-Kulal1
+* GitHub: https://github.com/Prashanth-kulal
 * LinkedIn: www.linkedin.com/in/prashanth-kulal-10266328b
 
 ---
